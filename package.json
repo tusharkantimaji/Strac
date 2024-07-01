@@ -1,0 +1,28 @@
+{
+  "name": "strac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharkantimaji/Strac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusharkantimaji/Strac/issues"
+  },
+  "homepage": "https://github.com/tusharkantimaji/Strac#readme",
+  "dependencies": {
+    "@azure/msal-node": "^2.9.2",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
